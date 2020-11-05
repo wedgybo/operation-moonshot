@@ -1,0 +1,280 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "type": "decision",
+            "message": "Welcome card 1",
+            "image": "assets/cards/card-1/image.png",
+            "sound": "assets/cards/card-1/audio.mp3",
+            "character": "boris-johnson",
+            "background": "uk-number-10-outside",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 2,
+            "type": "decision",
+            "message": "Welcome card 2",
+            "character": "dominic-rabb",
+            "background": "uk-number-10-press-conference",
+            "image": "assets/cards/card-2/image.jpg",
+            "sound": "assets/cards/card-2/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 3,
+            "type": "decision",
+            "message": "Welcome card 3",
+            "character": "dominic-cummings",
+            "background": "uk-number-10-meeting",
+            "image": "assets/cards/card-3/image.jpg",
+            "sound": "assets/cards/card-3/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 4,
+            "type": "decision",
+            "character": "priti-patel",
+            "background": "uk-home-office",
+            "message": "Welcome card 4",
+            "image": "assets/cards/card-4/image.jpg",
+            "sound": "assets/cards/card-4/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 5,
+            "type": "decision",
+            "message": "Welcome card 5",
+            "character": "donald-trump",
+            "background": "us-white-house-press-conference",
+            "image": "assets/cards/card-5/image.jpg",
+            "sound": "assets/cards/card-5/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 6,
+            "type": "decision",
+            "message": "Welcome card 6",
+            "character": "joe-biden",
+            "background": "us-white-house-press-conference",
+            "image": "assets/cards/card-6/image.jpg",
+            "sound": "assets/cards/card-6/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 7,
+            "type": "decision",
+            "message": "Welcome card 7",
+            "character": "greta-thunberg",
+            "background": "sw-countryside",
+            "image": "assets/cards/card-7/image.jpg",
+            "sound": "assets/cards/card-7/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 8,
+            "type": "decision",
+            "message": "Welcome card 8",
+            "character": "keir-starmer",
+            "background": "uk-number-10-outside",
+            "image": "assets/cards/card-8/image.jpg",
+            "sound": "assets/cards/card-8/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 9,
+            "type": "decision",
+            "message": "Welcome card 9",
+            "character": "piers-morgan",
+            "background": "uk-news-room",
+            "image": "assets/cards/card-9/image.jpg",
+            "sound": "assets/cards/card-9/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 10,
+            "type": "decision",
+            "message": "Welcome card 10. Whey! Just checking what happens when we add a message that is far too big. We will have to decide on an upper limit for this description",
+            "character": "mark-zuckerberg",
+            "background": "us-white-house-press-conference",
+            "image": "./assets/cards/card-10/image.png",
+            "sound": "./assets/cards/card-10/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 11,
+            "type": "decision",
+            "message": "Welcome card 11. Whey! Just checking what happens when we add a message that is far too big. We will have to decide on an upper limit for this description",
+            "character": "vladimir-putin",
+            "background": "us-white-house-press-conference",
+            "image": "./assets/cards/card-10/image.png",
+            "sound": "./assets/cards/card-10/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        },
+        {
+            "id": 12,
+            "type": "decision",
+            "message": "Welcome card 12. Whey! Just checking what happens when we add a message that is far too big. We will have to decide on an upper limit for this description",
+            "character": "nicola-sturgeon",
+            "background": "sc-holyrood",
+            "image": "./assets/cards/card-10/image.png",
+            "sound": "./assets/cards/card-10/audio.mp3",
+            "leftDecision": {
+                "message": "Left decision",
+                "economy": -6,
+                "health": 10,
+                "obedience": 3,
+                "testing": -3
+            },
+            "rightDecision": {
+                "message": "Right decision",
+                "economy": 3,
+                "health": -10,
+                "obedience": 3,
+                "testing": -3
+            }
+        }
+    ]
+}
